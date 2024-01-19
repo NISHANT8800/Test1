@@ -1,0 +1,113 @@
+while devlopemtnt in open envoriment if want to keep your secreate secure/safe for that use '.env'
+
+'nodemon' library restart our server aoutomatically when any changes are made in code/program.
+
+
+
+React:::
+
+it is library which is use to create rich UI.
+it create single page application.
+it work on component.
+it just js library, not a framework
+
+to learn react you must be aware about
+-html
+-css
+-js
+
+s/w pre-requisit
+-nodejs
+text editor
+
+react is faster than angular
+react: we use js and xml.
+angular: type script (ts)and xml.framework 
+react: design and dev by Facebook in 2013
+Angular: design and dev by Google in 2009
+
+
+There are two ways to create react project
+1.By using npx(no need to install configuration file) 
+step1: npx create-react-app projectName
+step2: cd projectName
+step3: npm start
+
+2.By using npm(need to install configuration file)
+step1:npm 
+
+
+****Q. What is bable in react
+	In react is a transpiler 
+	which converts letest js syntax into a code which can be executed on any envoriment
+
+*****Q.What is SPA ?
+	Single Page Appliction.
+	
+	
+*****Q.What is component in react? (function component & class component) 
+	it is a partial part of your web Appliction 
+	it can be reuse multiple times
+	it can be any part of method 
+	like:heade,footer,section....
+	in react app.js is a root/ component.
+	
+In React we have two components
+1.function component: when your main focus is on UI Design
+2.class component: when we have to write comlex logic/ component  
+
+
+node_module folder:
+All the 3rd party library and dependencies will get install in it
+
+package.json
+All the 3rd party library and dependencies we installed in our project/app its entry will be done in it.
+
+README.md
+All Info for READING only
+LOG/INFO regarding our project
+
+it prevents unnecessary files on github or	
+
+while creating component in react always start wit Capital
+
+
+
+to display individual component out
+
+
+
+18/12/23
+
+what is JSX(js and XML) react :
+-it allows us to use html code in react,
+-it makes react code easy.
+
+
+props:
+it is a parameter or function parameter which is use to pass data inside component
+-it return object type of data.
+in function we can use props by passing 'props' as parameter and props.propsName for access.
+in class we can use props in class this.props.propsName
+
+
+
+state :
+
+
+setState:
+-it is use to update state Data.
+
+
+
+
+Function and
+
+
+img is unpaired tag
+
+
+how to use  css
+1.internal
+2.external
+3.module

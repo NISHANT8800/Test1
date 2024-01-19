@@ -1,0 +1,27 @@
+********Virtual DOM********
+
+in react instead of manipulating browser dom directly 
+react creates virtualDom in its memory where it does all 
+the nessary changes & manipulation with virtual dom 
+before making on rael dom react changes what needs to be change
+
+
+
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
+|---------------------------|
+|          20-12-23             |
+|---------------------------|
+
+**How to install react-router-dom
+
+npm i react-router-dom
+
+**Types of react-router-dom**
+
+1. naming routing : by writing path name in browser url to
+display 
+2.Default
+3.parameterize
+4. child
+5. Wildcard
