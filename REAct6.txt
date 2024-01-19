@@ -1,0 +1,14 @@
+Redux is a library/predictable state container for java script application
+
+redux works on three core concept 
+
+1.Store : it stores/hold the state of js application
+
+2.Action : in action -- its stores desciption of your operation which weare going perform
+	it is plane js object which has a type attribute/property which stores string 
+	constant value.
+
+3.Reducer : it performs state transition depending on action & store.
+
+
+
